@@ -23,7 +23,7 @@ const sortedStudName = studNames.sort((a, b) => a.toUpperCase() - (b.toUpperCase
 
 console.log(sortedStudName);
 
-// reverse the string
+// reverse the str
 
 const str = "amalgamation";
 //  split , spliting the string into array
